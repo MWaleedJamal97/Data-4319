@@ -5,15 +5,11 @@
 
 ### Supervised Learning:
 
-- Model Building and Error Analysis
 - Linear Regression
 - Gradient Descent
 - Logistic Regression
-- Neural Nets
-- Support Vector Machines
 - k-Nearest Neighbors
 - Decision/ Regression Trees
-- Ensemble Learning
 
 ## Unsupervised Learning 
 - The K-Means Clustering 
