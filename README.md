@@ -4,16 +4,12 @@
  ![alt text](https://mitsloan.mit.edu/sites/default/files/styles/article_header/public/2021-04/machine-learning_2.jpg?h=865425c3&itok=AJPWyQXS)
 
 ### Supervised Learning:
-
-- Model Building and Error Analysis
+- Perceptron Modeling
 - Linear Regression
 - Gradient Descent
 - Logistic Regression
-- Neural Nets
-- Support Vector Machines
 - k-Nearest Neighbors
 - Decision/ Regression Trees
-- Ensemble Learning
 
 ## Unsupervised Learning 
 - The K-Means Clustering 
